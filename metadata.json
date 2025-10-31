@@ -1,0 +1,5 @@
+{
+  "name": "AgroClimate Data-Gov India Analyst",
+  "description": "An intelligent Q&A system that answers complex questions about India's agricultural economy and climate patterns by sourcing and synthesizing live data from data.gov.in.",
+  "requestFramePermissions": []
+}
